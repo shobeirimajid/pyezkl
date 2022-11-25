@@ -11,7 +11,7 @@ conda activate ezkl; pip install torch numpy;
 ```
 
 Make sure you are in the `pyezkl/examples/tutorial` directory. 
-Then to create the 'input.json` and `network.onnx` files:
+Then to create the `input.json` and `network.onnx` files:
 
 ```bash
 python tutorial.py
